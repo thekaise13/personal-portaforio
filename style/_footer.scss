@@ -1,0 +1,17 @@
+footer {
+    font-weight: 300;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 2rem;
+    background: $color-cuatro;
+    border-top: 4px solid $color-segundo;
+
+    p {
+        margin: 2rem;
+    }
+    
+    i {
+        vertical-align: middle;
+    }
+  }
+  
